@@ -1,0 +1,19 @@
+# robots.txt — Service-Net
+# Optimizado para presupuesto de rastreo
+
+User-agent: *
+Allow: /
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+
+# Bloquear archivos internos si los hubiera
+Disallow: /private/
+Disallow: /.git/
+Disallow: /node_modules/
+
+# Sitemap
+Sitemap: https://tusitio.com/sitemap.xml
+
+# Crawl delay opcional (reduce carga en GitHub Pages)
+# Crawl-delay: 1

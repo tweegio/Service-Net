@@ -1,0 +1,9 @@
+/
+├── index.html          # Núcleo de autoridad (Silo Principal)
+├── sitemap.xml         # Priorización de rutas locales
+├── robots.txt          # Optimización de presupuesto de rastreo
+├── css/
+│   └── styles.css      # CSS Crítico (Performance First)
+├── js/
+│   └── main.js         # Tracking de eventos GA4 y UI
+└── assets/             # Imágenes en WebP (Placeholder)
