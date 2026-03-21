@@ -4,7 +4,7 @@
 
   <!-- Página principal -->
   <url>
-    <loc>https://tusitio.com/</loc>
+    <loc>https://tweegio.github.io/Service-Net/</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -12,28 +12,28 @@
 
   <!-- Anclas SEO locales (para Google Search Console) -->
   <url>
-    <loc>https://tusitio.com/#servicios</loc>
+    <loc>https://tweegio.github.io/Service-Net/#servicios</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://tusitio.com/#cobertura</loc>
+    <loc>https://tweegio.github.io/Service-Net/#cobertura</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://tusitio.com/#faq</loc>
+    <loc>https://tweegio.github.io/Service-Net/#faq</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://tusitio.com/#contacto</loc>
+    <loc>https://tweegio.github.io/Service-Net/#contacto</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
