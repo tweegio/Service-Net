@@ -22,17 +22,6 @@ Sitio web institucional para **Service-Net**, empresa de soluciones informática
 
 ---
 
-## Páginas incluidas
-
-| Página | Descripción |
-|---|---|
-| `index.html` | Home — presentación de la empresa y servicios |
-| `servicio_tecnico.html` | Detalle de soporte técnico IT |
-| `redes.html` | Servicios de redes e infraestructura |
-| `disenio_web.html` | Servicio de diseño y desarrollo web |
-| `contacto.html` | Formulario de contacto |
-
----
 
 ## Servicios presentados
 
@@ -66,7 +55,7 @@ Sitio web institucional para **Service-Net**, empresa de soluciones informática
 
 ## Decisiones técnicas
 
-**Estructura multipágina.** Se optó por páginas separadas por servicio en lugar de un single-page, lo que mejora el SEO al permitir URLs específicas para cada servicio.
+**Estructura Simple** Se optó por una single-page.
 
 **SEO básico incluido.** El proyecto incluye `sitemap.xml` para indexación por crawlers y `robots.txt` para control de acceso. Configuración de headers HTTP de seguridad vía `_headers`.
 
