@@ -783,6 +783,52 @@ textarea {
     transform: scale(1.05);
 }
 
+/* ── Sección Proyectos ── */
+.proyectos {
+  padding: 5rem 0;
+  background: #0d1525;
+}
+
+.proyectos__card {
+  position: relative;
+  border-top: 3px solid var(--accent);
+}
+
+.proyectos__btn {
+  display: inline-block;
+  margin-top: 1.25rem;
+  padding: .6rem 1.25rem;
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  color: var(--accent);
+  font-size: .88rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all .25s ease;
+}
+
+.proyectos__btn:hover {
+  background: var(--accent);
+  color: #0a0f1e;
+}
+
+.proyectos__cta {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: .92rem;
+  color: rgba(255,255,255,.6);
+}
+
+.proyectos__cta a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.proyectos__cta a:hover {
+  text-decoration: underline;
+}
+
 /* 11. FOOTER */
 .footer {
     flex-shrink: 0;
