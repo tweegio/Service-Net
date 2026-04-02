@@ -792,6 +792,14 @@ textarea {
   border-top: 3px solid var(--accent);
 }
 
+.card-icon{
+    color: rgba(243, 203, 3, 0.868);
+}
+
+.proyectos__card h3{
+    color: white;
+}
+
 .proyectos__btn {
   display: inline-block;
   margin-top: 1.25rem;
@@ -813,8 +821,8 @@ textarea {
 .proyectos__cta {
   text-align: center;
   margin-top: 2rem;
-  font-size: .92rem;
-  color: rgba(255,255,255,.6);
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.784);
 }
 
 .proyectos__cta a {
